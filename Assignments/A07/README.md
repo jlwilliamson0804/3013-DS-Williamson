@@ -1,2 +1,1 @@
-
-Maze Hunter W.I.P
+## Description: Program is a maze hunter. Done in class as a group.
